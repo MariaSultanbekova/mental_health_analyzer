@@ -4,4 +4,6 @@ Let's try this time to create a neural network that determines the toxicity of t
 
 The data looks like this
 
-[]
+![header](https://github.com/MariaSultanbekova/mental_health_analyzer/blob/main/images/data.png)
+
+
