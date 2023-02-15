@@ -40,4 +40,4 @@ The accuracy has increased by a few percent and now we can look at the attention
 that is, in the learning process, the NN learns to pay attention to specific places and specific words (by meaning), and like this - using an example, you can see which places the model marks useful for prediction
 
 
-code https://github.com/MariaSultanbekova/mental_health_analyzer/blob/main/mental_health_analyzer.ipynb
+- code https://github.com/MariaSultanbekova/mental_health_analyzer/blob/main/mental_health_analyzer.ipynb
