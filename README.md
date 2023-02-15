@@ -25,14 +25,16 @@ ok, our network has learned to discriminate toxicity with over 90% accuracy!!
 
 
 
-now take one of the modern models of transformers
 
 
+## now take one of the modern models of transformers
 
 
+The accuracy has increased by a few percent and now we can look at the attention mechanism
+
+- using the bertwiz tool, you can visualize what weights the classifier gives to words when it makes a prediction
+
+![header](https://github.com/MariaSultanbekova/mental_health_analyzer/blob/main/images/attention.png)
 
 
-
-
-
-
+that is, in the learning process, the NN learns to pay attention to specific places and specific words (by meaning), and like this - using an example, you can see which places the model marks useful for prediction
